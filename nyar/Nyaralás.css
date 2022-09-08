@@ -1,0 +1,85 @@
+body {
+    background-image: url("Képek/44590336_99a189b620dbf1740bd6e196bfd8fa5e_wm.jpg");
+    background-size: cover;
+}
+
+#cim {
+    padding-bottom: 0px;
+    font-size: 300%;
+    font-family: Arial
+}
+
+#kep_apatsag {
+    width: 45%;
+    height: 45%;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#kep_strand {
+    width: 70%;
+    height: 70%;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#kep_kalandpark {
+    width: 77%;
+    height: 77%;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+table {
+    padding: 25px;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.493);
+    border: 2px solid black;
+    border-radius: 5px;
+    border-spacing: 10px 0px ;
+}
+
+.cella {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 550px;
+}
+
+.link_cella {
+    padding-top: 20px;
+}
+
+#szoveg {
+    font-family: Arial;
+    font-size: 150%;
+
+}
+
+.button {
+    align-items: center;
+    background-color: #fff;
+    border-radius: 24px;
+    border-style: none;
+    box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
+    color: #000000;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    height: 48px;
+    letter-spacing: .25px;
+    padding: 2px 20px;
+    width: auto;
+  }
+
+.button:hover {
+    transform: translateY(-0.25em);
+}
+
+#ajanlas {
+    padding-top: 1cm;
+    padding-bottom: 0.5cm;
+    font-size: 200%;
+    font-family: Arial;
+}
